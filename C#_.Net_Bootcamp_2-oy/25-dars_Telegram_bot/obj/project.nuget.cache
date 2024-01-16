@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cv8FKyV8YFmEGy1r7NRP7+u4H0B1u3F3/dQBLo4HCJ390FvRDmeBSwcCb/oNLz+BoQfKnp+V/LffsD3X0bJtJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\c#\\C#_.Net_Bootcamp_2-oy\\25-dars_Telegram_bot\\25-dars_Telegram_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

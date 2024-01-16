@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\bin\Debug\net8.0\24-dars_HttpClient_CRUD.exe
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\bin\Debug\net8.0\24-dars_HttpClient_CRUD.deps.json
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\bin\Debug\net8.0\24-dars_HttpClient_CRUD.runtimeconfig.json
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\bin\Debug\net8.0\24-dars_HttpClient_CRUD.dll
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\bin\Debug\net8.0\24-dars_HttpClient_CRUD.pdb
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.AssemblyInfo.cs
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.dll
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\refint\24-dars_HttpClient_CRUD.dll
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.pdb
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\24-dars_HttpClient_CRUD.genruntimeconfig.cache
+C:\Users\hp\Desktop\c#\C#_.Net_Bootcamp_2-oy\24-dars_HttpClient_CRUD\obj\Debug\net8.0\ref\24-dars_HttpClient_CRUD.dll

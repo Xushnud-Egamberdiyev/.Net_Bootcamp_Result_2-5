@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "24-dars_HttpClient_CRUD/1.0.0": {
+        "runtime": {
+          "24-dars_HttpClient_CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "24-dars_HttpClient_CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
